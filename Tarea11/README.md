@@ -5,3 +5,5 @@ __Aviso__
 ---
 #### Esta esta construida en usando las tecnologías de javascript de mas recursos.
 
+Juan diego agudelo - Sergio Diaz
+
